@@ -1,2 +1,2 @@
-# menu.et
+# menu
 Digital Menu Product
